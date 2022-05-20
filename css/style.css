@@ -173,4 +173,12 @@ img {
         margin-bottom: 100px;
     }
 
+    .steps {
+        margin-bottom: 0rem;
+    }
+
+    .why-us {
+        background-color: black;
+        padding-top: 3rem;
+    }
 }
